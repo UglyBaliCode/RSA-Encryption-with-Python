@@ -1,6 +1,7 @@
 # RSA-Encryption-with-Python
 RSA encryption inPython 
 
-This is how to create RSA encryption keys with 2 given prime numbers p,q.
-These are already hard coded into the code, but it gives you an insight of how this works. 
+The generate_keys.py is my version of how to find an encryption key and decryption key given 2 prime numbers.
+
+Sign and verify folder: contains 3 simple scripts (create keys, sign message and verify message) for the verification of messages
 
